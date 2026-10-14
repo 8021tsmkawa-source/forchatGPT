@@ -1,0 +1,2 @@
+# forchatGPT
+チャッピー用
